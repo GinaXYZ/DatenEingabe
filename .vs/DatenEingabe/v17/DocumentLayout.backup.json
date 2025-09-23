@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|c:\\users\\fia\\source\\repos\\dateneingabe\\dateneingabe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|solutionrelative:dateneingabe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|c:\\users\\fia\\source\\repos\\dateneingabe\\dateneingabe\\views\\home\\dateneingabe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|solutionrelative:dateneingabe\\views\\home\\dateneingabe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|c:\\users\\fia\\source\\repos\\dateneingabe\\dateneingabe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|solutionrelative:dateneingabe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|c:\\users\\fia\\source\\repos\\dateneingabe\\dateneingabe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B213A4-9546-4A66-BEB3-E49459EAA86A}|DatenEingabe\\DatenEingabe.csproj|solutionrelative:dateneingabe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatenEingabe.cshtml",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Views\\Home\\DatenEingabe.cshtml",
+              "RelativeDocumentMoniker": "DatenEingabe\\Views\\Home\\DatenEingabe.cshtml",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Views\\Home\\DatenEingabe.cshtml",
+              "RelativeToolTip": "DatenEingabe\\Views\\Home\\DatenEingabe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:27:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatenEingabe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatenEingabe\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:14:22.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatenEingabe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatenEingabe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:12:58.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Program.cs",
+              "RelativeDocumentMoniker": "DatenEingabe\\Program.cs",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Program.cs",
+              "RelativeToolTip": "DatenEingabe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:05:09.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

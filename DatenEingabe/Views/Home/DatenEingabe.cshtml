@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DatenEingabe</title>
+</head>
+<body>
+    <h1>DatenEingabe</h1>
+    <fieldset method="post" legend="Ihre Daten" action="/DatenEingabe">
+        <input type="text" name="Vorname" /> Vorname
+        <br />
+        <input type="text" name="Nachname" /> Nachname
+        <br />
+        <input type="date" name="Geburtsdatum" /> Geburtsdatum
+    </fieldset>
+    <fieldset>
+		<input type="color" name="Lieblingsfarbe" /> Lieblingsfarbe
+    </fieldset>
+    <fieldset>
+		<input type="checkbox" name="genutzte Betriebssysteme" 
+            /> Windows
+    </fieldset>
+
+    <a href="/Home/Index">Zurück</a>
+</body>
+</html>

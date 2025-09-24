@@ -15,12 +15,10 @@ namespace DatenEingabe.Controllers
         {
             return View();
         }
-
         [HttpPost]
-        public IActionResult DatenEingabe(string Vorname, string Nachname, DateOnly Geburtsdatum)
+        public IActionResult DatenEingabe(PersonenDaten daten)
         {
-
-            return RedirectToAction("Index");
+            return View("Ausgabe", daten);
         }
     }
 }

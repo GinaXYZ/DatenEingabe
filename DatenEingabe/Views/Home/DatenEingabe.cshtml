@@ -8,24 +8,67 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>DatenEingabe</title>
+    <style>
+        input[type="text"] {
+            width: 200px;
+		}
+        label {
+            display: inline-block;
+            width: 120px;
+        }
+    </style>
 </head>
 <body>
-    <h1>DatenEingabe</h1>
-    <fieldset method="post" legend="Ihre Daten" action="/DatenEingabe">
-        <input type="text" name="Vorname" /> Vorname
+    <h1>Dateneingabe</h1>
+	<form method="post" action="/Home/DatenEingabe">
+    <fieldset method="post" name="Ihre Daten">
+        <legend>Ihre Daten:</legend>
+		<label name="Vorname">Vorname:</label>
         <br />
-        <input type="text" name="Nachname" /> Nachname
+        <input type="text" name="Vorname" />
         <br />
-        <input type="date" name="Geburtsdatum" /> Geburtsdatum
+		<label for="Nachname">Nachname:</label>
+        <br />
+        <input type="text" name="Nachname" /> 
+        <br />
+		<label for="Geburtsdatum">Geburtsdatum:</label>
+        <br />
+        <input type="date" name="Geburtsdatum" /> 
     </fieldset>
+    <br>
     <fieldset>
-		<input type="color" name="Lieblingsfarbe" /> Lieblingsfarbe
+        <legend>Lieblingsfarbe:</legend>
+		<input type="color" />
     </fieldset>
+    <br>
     <fieldset>
-		<input type="checkbox" name="genutzte Betriebssysteme" 
-            /> Windows
+        <legend>Genutzte Betriebssysteme:</legend>
+		<input type="checkbox" name="Betriebssysteme" />
+		<label for="windows2">Windows</label>
+        <input type="checkbox" name="Betriebssysteme" />
+        <label for="windows2">iOS</label>
+        <input type="checkbox" name="Betriebssysteme" />
+        <label for="windows2">Linux</label>
+        <input type="checkbox" name="Betriebssysteme" />
+        <label for="windows2">Android</label>
     </fieldset>
-
+    <br />
+    <fieldset>
+		<legend>Geschlecht:</legend>
+		<input type="radio" name="Geschlecht" />
+		<radio value="m" /> Männlich
+        <input type="radio" name="Geschlecht" />
+		<radio value="w" /> Weiblich
+    </fieldset>
+	<br />
+    <fieldset>
+        <legend>Hobbies:</legend>
+		<textarea name="Hobbies" rows="4" cols="50"></textarea>
+    </fieldset>
+	<br />
+    <button type="submit" a href="/Home/Index">Speichern</button>
+	<button type="reset">Zurücksetzen</button>
     <a href="/Home/Index">Zurück</a>
+    </form>
 </body>
 </html>

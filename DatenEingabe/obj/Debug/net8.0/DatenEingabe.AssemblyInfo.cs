@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatenEingabe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da8e13fb4ec9bde019c92d4467f0409f0659ad5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatenEingabe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatenEingabe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

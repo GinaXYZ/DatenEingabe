@@ -1,0 +1,23 @@
+﻿@using DatenEingabe
+@model PersonenDaten
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ausgabe - Personen Daten</title>
+</head>
+<body>
+    <h2>Ihre eingegebenen Daten:</h2>
+    <p>Vorname: @Model.Vorname</p>
+    <p>Nachname: @Model.Nachname</p>
+    <p>Geburtsdatum: @Model.Geburtsdatum.ToString("dd.MM.yyyy")</p>
+    <p>Lieblingsfarbe: <span style="background-color: @Model.Lieblingsfarbe; padding: 2px 8px; border-radius: 3px;">@Model.Lieblingsfarbe</span></p>
+    <p>Betriebssysteme: @(Model.Betriebssysteme != null && Model.Betriebssysteme.Any() ? string.Join(", ", Model.Betriebssysteme) : "Keine ausgewählt")</p>
+    <p>Geschlecht: @Model.Geschlecht</p>
+    <p>Hobbies: @Model.Hobbies</p>
+    
+    <br />
+    <a href="@Url.Action("DatenEingabe", "Home")">Neue Eingabe</a>
+</body>
+</html>
+    

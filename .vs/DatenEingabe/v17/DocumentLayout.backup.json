@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "DatenEingabe\\Views\\Home\\DatenEingabe.cshtml",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\DatenEingabe\\DatenEingabe\\Views\\Home\\DatenEingabe.cshtml",
               "RelativeToolTip": "DatenEingabe\\Views\\Home\\DatenEingabe.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-23T10:27:07.521Z",
               "EditorCaption": ""
@@ -91,8 +91,7 @@
               "RelativeToolTip": "DatenEingabe\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:14:22.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T10:14:22.235Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "DatenEingabe\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T10:12:58.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T10:12:58.095Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "DatenEingabe\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:05:09.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T10:05:09.384Z"
             }
           ]
         }
